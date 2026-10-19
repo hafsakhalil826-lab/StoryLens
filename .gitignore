@@ -1,6 +1,9 @@
-# Python
+# Python environments
 .venv/
 venv/
+sklearn-env/
+
+# Python cache and notebooks
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -20,10 +23,3 @@ models/
 # Node
 node_modules/
 .next/
-
-.venv/
-venv/
-__pycache__/
-.ipynb_checkpoints/
-
-sklearn-env/
